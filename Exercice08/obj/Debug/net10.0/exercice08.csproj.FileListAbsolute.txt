@@ -1,0 +1,15 @@
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\bin\Debug\net10.0\exercice08.exe
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\bin\Debug\net10.0\exercice08.deps.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\bin\Debug\net10.0\exercice08.runtimeconfig.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\bin\Debug\net10.0\exercice08.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\bin\Debug\net10.0\exercice08.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.AssemblyInfoInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.AssemblyInfo.cs
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.csproj.CoreCompileInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.sourcelink.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\refint\exercice08.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\exercice08.genruntimeconfig.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\exercice08\obj\Debug\net10.0\ref\exercice08.dll
