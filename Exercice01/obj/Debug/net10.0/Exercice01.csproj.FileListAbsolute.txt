@@ -1,0 +1,14 @@
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\bin\Debug\net10.0\Exercice01.exe
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\bin\Debug\net10.0\Exercice01.deps.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\bin\Debug\net10.0\Exercice01.runtimeconfig.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\bin\Debug\net10.0\Exercice01.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\bin\Debug\net10.0\Exercice01.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.AssemblyInfoInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.AssemblyInfo.cs
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.csproj.CoreCompileInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\refint\Exercice01.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\Exercice01.genruntimeconfig.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice01\obj\Debug\net10.0\ref\Exercice01.dll
