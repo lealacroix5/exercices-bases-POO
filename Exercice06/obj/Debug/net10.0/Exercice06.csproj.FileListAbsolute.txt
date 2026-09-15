@@ -1,0 +1,15 @@
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\bin\Debug\net10.0\Exercice06.exe
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\bin\Debug\net10.0\Exercice06.deps.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\bin\Debug\net10.0\Exercice06.runtimeconfig.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\bin\Debug\net10.0\Exercice06.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\bin\Debug\net10.0\Exercice06.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.AssemblyInfoInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.AssemblyInfo.cs
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.csproj.CoreCompileInputs.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.sourcelink.json
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\refint\Exercice06.dll
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.pdb
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\Exercice06.genruntimeconfig.cache
+C:\Users\l3ala\Desktop\exercices-bases-POO\Exercice06\obj\Debug\net10.0\ref\Exercice06.dll

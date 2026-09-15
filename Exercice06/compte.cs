@@ -1,0 +1,29 @@
+public class Compte
+{
+    public string Numero { get; private set; }
+    public string Titulaire { get; private set; }
+    public decimal Solde { get; private set; }
+
+    public Compte(string numero, string titulaire)
+    {
+        Numero = numero;
+        Titulaire = titulaire;
+        Solde = 0m;
+    }
+
+    public void Crediter(decimal montant)
+    {
+        if (montant > 0)
+        {
+            Solde += montant;
+        }
+    }
+
+    public void Debiter(decimal montant)
+    {
+        if (montant > 0 && montant <= Solde)
+        {
+            Solde -= montant;
+        }
+    }
+}
